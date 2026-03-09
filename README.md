@@ -1,7 +1,7 @@
 <h1>Hi, I'm Manny! <br/><a href="https://github.com/Manolistzan">Cybersecurity</a>, <a href="https://www.linkedin.com/in/manolis-tzanidakis/">Information Technology Professional</a></h1>
 
 <p>
-This page is intentionally structured like a documented CV: concise scope up top, followed by a living ledger of certifications, digital badges, and education.
+This page is intentionally structured like a concise overview of current scope and hands-on cybersecurity work.
 </p>
 
 <h2>Daily Scope</h2>
@@ -25,12 +25,6 @@ My day-to-day work sits at the intersection of IT operations and security enforc
 - OSINT Tools
 - Wazuh
 - Python Keystroke Logger
-
-<h2>Certifications, Digital Badges, and Education</h2>
-
-<p>
-This section is maintained as a living ledger and updated as milestones are completed.
-</p>
 
 <h2>Connect with Me</h2>
 
