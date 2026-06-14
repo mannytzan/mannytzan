@@ -19,7 +19,7 @@ This page is intentionally structured like a concise overview of current scope a
 
 <h2>Cybersecurity Projects</h2>
 
-- AWS Honeypot (https://github.com/mannytzan/AWS-Honeypot)
+- [AWS Honeypot] (https://github.com/mannytzan/AWS-Honeypot)
 
 - Detection Engineering
 - Privilege Escalation & Attack Detection
