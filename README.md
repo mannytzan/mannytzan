@@ -20,11 +20,22 @@ My day-to-day work sits at the intersection of IT operations and security enforc
 <h2>Cybersecurity Projects</h2>
 
 - AWS Honeypot
-- Nessus Vulnerability Management
-- OpenVAS Vulnerability Management
-- OSINT Tools
-- Wazuh
-- Python Keystroke Logger
+- Detection Engineering
+- Privilege Escalation & Attack Detection
+- Cloud IAM permissions analyzer
+- Phish resistant MFA, why is it so important
+- CloudGoat/TerraGoat misconfiguration exploitation
+- IaC security scanning pipeline
+- Kubernetes security hardening
+- LLM security testing toolki
+- Ransomware "Choose your own adventure" TTX
+- Ransomware killchain detection
+- IR playbook generator
+- CI/CD pipeline attack & defense
+- Dependency risk scorer
+- Zero Trust maturity self-assessment tool
+- Framework Gap Assessment Tool (CMMC, NIST800-171
+- AI Governance Framework (NIST AI RMF)
 
 <h2>Connect with Me</h2>
 
