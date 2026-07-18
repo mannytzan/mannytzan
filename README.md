@@ -25,7 +25,7 @@ This page is intentionally structured like a concise overview of current scope a
 - Cloud IAM permissions analyzer
 - Phish resistant MFA, why is it so important
 - CloudGoat/TerraGoat misconfiguration exploitation
-- IaC security scanning pipeline(https://github.com/mannytzan/IaC-Security-Scanning-Pipeline.git)
+- [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline.git)
 - Kubernetes security hardening
 - LLM security testing toolki
 - Ransomware "Choose your own adventure" TTX
