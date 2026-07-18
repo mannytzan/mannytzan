@@ -27,7 +27,7 @@ This page is intentionally structured like a concise overview of current scope a
 - CloudGoat/TerraGoat misconfiguration exploitation
 - [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline.git)
 - Kubernetes security hardening
-- LLM security testing toolki
+- LLM security testing toolkit
 - Ransomware "Choose your own adventure" TTX
 - Ransomware killchain detection
 - IR playbook generator
