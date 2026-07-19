@@ -11,7 +11,7 @@ This page is intentionally structured like a concise overview of current scope a
 </p>
 
 - Endpoint security operations: EDR deployment, sensor health, host investigations, containment workflows, and SOAR-supported response
-- IAM across idP's, Cloud infrastructure and implementing Zero Trusth and least-privilege
+- IAM across idP's, Cloud infrastructure and implementing zero trust and least-privilege
 - MDM and endpoint hardening, compliance baselines, vulnerability & patch management
 - Data protection and SaaS security: Google Workspace DLP, external sharing controls, admin role reviews, and collaboration security
 - Network and infrastructure security across environments, VLANs, VPNs, wireless, and firewalls including 802.1X
