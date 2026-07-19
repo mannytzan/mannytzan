@@ -44,5 +44,5 @@ This page is intentionally structured like a concise overview of current scope a
 
 <br/>
 
-[instagram]: https://www.instagram.com/xplainedit
+[instagram]:
 [linkedin]: https://linkedin.com/in/manolis-tzanidakis
