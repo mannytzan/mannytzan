@@ -20,12 +20,12 @@ This page is intentionally structured like a concise overview of current scope a
 <h2>Cybersecurity Projects</h2>
 
 - [AWS Honeypot](https://github.com/mannytzan/AWS-Honeypot)
-- [Detection Engineering](https://github.com/mannytzan/triagekit.git)
+- [Detection Engineering](https://github.com/mannytzan/triagekit)
 - Privilege Escalation & Attack Detection
 - Cloud IAM permissions analyzer
 - Phish resistant MFA, why is it so important
 - CloudGoat/TerraGoat misconfiguration exploitation
-- [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline.git)
+- [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
 - Kubernetes security hardening
 - LLM security testing toolkit
 - Ransomware "Choose your own adventure" TTX
