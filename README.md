@@ -23,6 +23,7 @@ This page is intentionally structured like a concise overview of current scope a
 - [Detection Engineering](https://github.com/mannytzan/triagekit)
 - Privilege Escalation & Attack Detection
 - Cloud IAM permissions analyzer
+- [Secure AWS infrastructure with Terraform](https://github.com/mannytzan/secure-aws-infra-terraform)
 - Phish resistant MFA, why is it so important
 - CloudGoat/TerraGoat misconfiguration exploitation
 - [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
