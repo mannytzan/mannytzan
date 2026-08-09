@@ -31,7 +31,7 @@ This page is intentionally structured like a concise overview of current scope a
 - LLM security testing toolkit
 - [Ransomware "Choose your own adventure" TTX](https://github.com/mannytzan/Ransomware-Choose-Your-Own-Adventure-TTX)
 - Ransomware killchain detection
-- IR playbook generator
+- [IR playbook generator](https://github.com/mannytzan/ir-playbook-generator)
 - CI/CD pipeline attack & defense
 - Dependency risk scorer
 - Zero Trust maturity self-assessment tool
