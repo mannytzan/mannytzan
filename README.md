@@ -29,7 +29,7 @@ This page is intentionally structured like a concise overview of current scope a
 - [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
 - Kubernetes security hardening
 - LLM security testing toolkit
-- Ransomware "Choose your own adventure" TTX
+- [Ransomware "Choose your own adventure" TTX](https://github.com/mannytzan/Ransomware-Choose-Your-Own-Adventure-TTX)
 - Ransomware killchain detection
 - IR playbook generator
 - CI/CD pipeline attack & defense
