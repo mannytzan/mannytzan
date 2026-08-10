@@ -1,49 +1,48 @@
-<h1>Hi, I'm Manny! <br/><a href="https://github.com/Mannytzan">Cybersecurity</a>, <a href="https://www.linkedin.com/in/manolis-tzanidakis/">Information Technology Professional</a></h1>
+# Hi, I'm Manny!
+### Cybersecurity Analyst | Detection & Response
 
-<p>
 This page is intentionally structured like a concise overview of current scope and hands-on cybersecurity work.
-</p>
 
-<h2>Daily Scope</h2>
+## Daily Scope
 
-<p>
-    My day-to-day work sits at the intersection of IT operations, security operations, identity, endpoint security, compliance engineering, and infrastructure reliability. I support and secure enterprise environments by implementing controls across endpoints, cloud services, identity platforms, SaaS applications, and physical networks.
-</p>
+My day-to-day work sits at the intersection of detection engineering, incident response, identity, endpoint security, and compliance engineering. I investigate and secure enterprise environments through detection logic, containment workflows, and controls across endpoints, cloud services, identity platforms, and SaaS applications.
 
-- Endpoint security operations: EDR deployment, sensor health, host investigations, containment workflows, and SOAR-supported response
-- IAM across idP's, Cloud infrastructure and implementing zero trust and least-privilege
+- Detection & incident response: alert triage, host investigations, containment workflows, and SOAR-supported response
+- Endpoint security operations: EDR deployment, sensor health, and detection logic tuning
+- IAM across IdPs, cloud infrastructure, and implementing zero trust and least-privilege
 - MDM and endpoint hardening, compliance baselines, vulnerability & patch management
 - Data protection and SaaS security: Google Workspace DLP, external sharing controls, admin role reviews, and collaboration security
-- Network and infrastructure security across environments, VLANs, VPNs, wireless, and firewalls including 802.1X
+- Network and infrastructure security across environments: VLANs, VPNs, wireless, and firewalls including 802.1X
 - Compliance control implementation: technical controls supporting SOC 2, CMMC Level 2, NIST 800-53, and NIST 800-171
 
-<h2>Cybersecurity Projects</h2>
+## Cybersecurity Projects
 
-- [AWS Honeypot](https://github.com/mannytzan/AWS-Honeypot)
+**Detection & Incident Response**
 - [Detection Engineering](https://github.com/mannytzan/triagekit)
-- Privilege Escalation & Attack Detection
-- Cloud IAM permissions analyzer
-- [Secure AWS infrastructure with Terraform](https://github.com/mannytzan/secure-aws-infra-terraform)
-- Phish resistant MFA, why is it so important
-- CloudGoat/TerraGoat misconfiguration exploitation
-- [IaC security scanning pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
-- Kubernetes security hardening
-- LLM security testing toolkit
-- [Ransomware "Choose your own adventure" TTX](https://github.com/mannytzan/Ransomware-Choose-Your-Own-Adventure-TTX)
+- [IR Playbook Generator](https://github.com/mannytzan/ir-playbook-generator)
+- [Ransomware "Choose Your Own Adventure" TTX](https://github.com/mannytzan/Ransomware-Choose-Your-Own-Adventure-TTX)
 - Ransomware killchain detection
-- [IR playbook generator](https://github.com/mannytzan/ir-playbook-generator)
+- Privilege Escalation & Attack Detection
+
+**Cloud & Infrastructure Security**
+- [AWS Honeypot](https://github.com/mannytzan/AWS-T-Pot-Honeypot-Threat-Intelligence-Report)
+- [Secure AWS Infrastructure with Terraform](https://github.com/mannytzan/secure-aws-infra-terraform)
+- [IaC Security Scanning Pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
+- Cloud IAM permissions analyzer
+- CloudGoat/TerraGoat misconfiguration exploitation
+- Kubernetes security hardening
 - CI/CD pipeline attack & defense
-- Dependency risk scorer
+
+**Governance, Risk & Compliance**
 - Zero Trust maturity self-assessment tool
-- Framework Gap Assessment Tool (CMMC, NIST800-171
+- Framework Gap Assessment Tool (CMMC, NIST 800-171)
 - AI Governance Framework (NIST AI RMF)
+- Dependency risk scorer
 
-<h2>Connect with Me</h2>
+**Other**
+- Phish resistant MFA, why is it so important
+- LLM security testing toolkit
 
-[<img align="left" alt="Manny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Manny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Connect with Me
 
-<br/>
-
-instagram
-[linkedin]:[https://linkedin.com/in/manolis-tzanidakis]
+[![LinkedIn](www.linkedin.com/in/manolis-tzanidakis)
