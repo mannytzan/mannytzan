@@ -28,6 +28,9 @@ My day-to-day work sits at the intersection of detection engineering, incident r
 - [Secure AWS Infrastructure with Terraform](https://github.com/mannytzan/secure-aws-infra-terraform)
 - [IaC Security Scanning Pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
 
+  **Governance, Risk & Compliance**
+- [Framework Gap Assessment Tool](https://github.com/mannytzan/Readiness-assessment-tool)
+
 
 ## Connect with Me
 
