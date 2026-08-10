@@ -45,4 +45,4 @@ My day-to-day work sits at the intersection of detection engineering, incident r
 
 ## Connect with Me
 
-[LinkedIn](www.linkedin.com/in/manolis-tzanidakis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/manolis-tzanidakis)
