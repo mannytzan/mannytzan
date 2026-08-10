@@ -21,27 +21,13 @@ My day-to-day work sits at the intersection of detection engineering, incident r
 - [Detection Engineering](https://github.com/mannytzan/triagekit)
 - [IR Playbook Generator](https://github.com/mannytzan/ir-playbook-generator)
 - [Ransomware "Choose Your Own Adventure" TTX](https://github.com/mannytzan/Ransomware-Choose-Your-Own-Adventure-TTX)
-- Ransomware killchain detection
-- Privilege Escalation & Attack Detection
+
 
 **Cloud & Infrastructure Security**
 - [AWS Honeypot](https://github.com/mannytzan/AWS-T-Pot-Honeypot-Threat-Intelligence-Report)
 - [Secure AWS Infrastructure with Terraform](https://github.com/mannytzan/secure-aws-infra-terraform)
 - [IaC Security Scanning Pipeline](https://github.com/mannytzan/IaC-Security-Scanning-Pipeline)
-- Cloud IAM permissions analyzer
-- CloudGoat/TerraGoat misconfiguration exploitation
-- Kubernetes security hardening
-- CI/CD pipeline attack & defense
 
-**Governance, Risk & Compliance**
-- Zero Trust maturity self-assessment tool
-- Framework Gap Assessment Tool (CMMC, NIST 800-171)
-- AI Governance Framework (NIST AI RMF)
-- Dependency risk scorer
-
-**Other**
-- Phish resistant MFA, why is it so important
-- LLM security testing toolkit
 
 ## Connect with Me
 
